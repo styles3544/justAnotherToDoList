@@ -1,0 +1,51 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 10px;
+    width: 50%;
+    text-align: center;
+    vertical-align: center;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.styleText{
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#input{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.toDo{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#toDoItems{
+    margin-top: 10px;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#input{
+    border: 1px solid black;
+    width: 50%;
+    height: 1.5rem;
+    margin: 2px
+}
+
+#btnAdd{
+    border: 1px solid black;
+    font-size: 1rem;
+    margin: 2px
+}
